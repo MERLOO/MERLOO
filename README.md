@@ -1,6 +1,5 @@
 <h2> Wake up samurai ! 👾</h2>
 
-## About Me :
 
 <h3> Hello i'm Nadji, software & AI engineer sharing his Journey</h3>
 
