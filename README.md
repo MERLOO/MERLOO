@@ -70,7 +70,7 @@
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadji-hadj-aissa-b28ab134a/)
-[![YouTube](https://img.shields.io/badge/-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nadji80s)
+[![YouTube](https://img.shields.io/badge/-MyMusic-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nadji80s)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MERLOO&show_icons=true&theme=default" alt="MERLOO's GitHub stats" />
