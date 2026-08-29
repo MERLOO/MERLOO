@@ -1,7 +1,7 @@
 <h2> Wake up samurai ! 👾</h2>
 
 
-<h3> Hello i'm Nadji, software & AI engineer sharing his Journey</h3>
+<h3> Hello i'm Nadji, software & AI engineer, i document my progres here</h3>
 
 <br>
 
