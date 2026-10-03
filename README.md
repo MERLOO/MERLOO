@@ -7,7 +7,7 @@
 - Sharing content on [YouTube](https://www.youtube.com/@Nadji80s)
 - Producing music and mastering audio in my free time
 
-##Tech Stack
+## Tech Stack
 
 **Languages**
 
