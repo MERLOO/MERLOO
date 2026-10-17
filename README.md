@@ -2,7 +2,7 @@
 
 <h3> lorem ipsum.</h3>
 
-- University of Science and Technology Houari Boumediene (USTHB)
+- MSc in Computer Vision at University of Science and Technology Houari Boumediene (USTHB)
 - Exploring AI agents, RAG pipelines, and applied machine learning
 - Sharing content on [YouTube](https://www.youtube.com/@Nadji80s)
 - Producing music and mastering audio in my free time
